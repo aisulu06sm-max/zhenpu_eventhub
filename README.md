@@ -88,3 +88,49 @@ Sapargali Aisulu Marsovna
 ## Project Status
 
 Planning and design stage.
+
+
+
+
+## Main Pages (Негізгі беттер)
+
+1. **Home Page (index.php)**
+   - Сайттың басты беті
+   - Танымал іс-шаралар
+   - Іздеу жолағы
+
+2. **Events Page (events.php)**
+   - Барлық іс-шаралар тізімі
+   - Іс-шараларды іздеу
+   - Категория бойынша сүзу
+
+3. **Event Details Page (event-details.php)**
+   - Іс-шара туралы толық ақпарат
+   - Өтетін күні мен орны
+   - Тіркелу батырмасы
+
+4. **Registration Page (register.php)**
+   - Жаңа пайдаланушыны тіркеу
+   - Аты-жөні, email және құпиясөз
+
+5. **Login Page (login.php)**
+   - Жүйеге кіру
+   - Email және құпиясөз
+
+6. **User Profile (profile.php)**
+   - Пайдаланушының жеке ақпараты
+   - Профильді өзгерту
+
+7. **My Events (my-events.php)**
+   - Пайдаланушы тіркелген іс-шаралар
+   - Тіркелуден бас тарту
+
+8. **Admin Dashboard (admin/dashboard.php)**
+   - Пайдаланушыларды басқару
+   - Іс-шараларды басқару
+   - Статистика
+
+9. **Add Event Page (admin/add-event.php)**
+   - Жаңа іс-шара қосу
+   - Іс-шара ақпаратын енгізу
+
